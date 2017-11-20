@@ -57,3 +57,7 @@ a {
 .portfolioImage {
   height: 275px;
 }
+
+img {
+  margin: 2px;
+}
