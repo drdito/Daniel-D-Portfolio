@@ -39,6 +39,7 @@
   background-color: #4aaaa5;
   color: white !important;
   border: none; 
+  cursor: pointer;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -60,4 +61,8 @@ a {
 
 img {
   margin: 2px;
+}
+
+#resume {
+  color:blue !important;
 }
